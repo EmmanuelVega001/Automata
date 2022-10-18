@@ -5,10 +5,12 @@ cadenaTemporal=[]
 ver=0
 for line in f:
     for caracter in line :
+        cont=0
         arregloLinea.append(caracter)
-        for ver in range (4):
-            if caracter == "h" and caracter == "o" and caracter == "l" and caracter =="a":
-                caractertemp=caracter
-                cadenaTemporal.append(caractertemp)
-                
+        caractertemp=caracter
+        cadenaTemporal.append(caractertemp)
+        cont+=1
+    if cadenaTemporal == "h" and cadenaTemporal == "o" and cadenaTemporal == "l" and cadenaTemporal =="a":
+            ver+=1
 print(cadenaTemporal)
+print (ver/4)
