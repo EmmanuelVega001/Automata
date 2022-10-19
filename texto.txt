@@ -1,5 +1,21 @@
-
 hola
 hola
-holaLorem ipsum, dolor sit amet consectetur adipisicing elit. Veritatis, doloremque delectus commodi ex optio explicabo, saepe maiores quod dicta eligendi cum laborum, sit quae odit exped
-ita itaque quia maxime a?
+A menudo, el primer argumen ho lato h ho hh al a o  de un método se llama self (uno mismo). Esto no es nada más que una convención: el nombre self no significa nada en especial para Python. Observá que, sin embargo, si no seguís la convención tu código puede resultar menos legible a otros programadores de Python, y puede llegar a pasar que un programa navegador de clases pueda escribirse de una manera que dependa de dicha convención.
+hola
+Cualquier objeto función que es un atributo de clase define un método para instancias de esa clase. No es necesario que el la definición de la función esté textualmente dentro de la definición de la clase: asignando un objeto función a una variable local en la clase también está bien. Por ejemplo:
+hola
+HOLA
+hola
+hola
+A menudo, el primer argumen ho lato h ho hh al a o  de un método se llama self (uno mismo). Esto no es nada más que una convención: el nombre self no significa nada en especial para Python. Observá que, sin embargo, si no seguís la convención tu código puede resultar menos legible a otros programadores de Python, y puede llegar a pasar que un programa navegador de clases pueda escribirse de una manera que dependa de dicha convención.
+hola
+Cualquier objeto función que es un atributo de clase define un método para instancias de esa clase. No es necesario que el la definición de la función esté textualmente dentro de la definición de la clase: asignando un objeto función a una variable local en la clase también está bien. Por ejemplo:
+hola
+HOLA
+hola
+hola
+A menudo, el primer argumen ho lato h ho hh al a o  de un método se llama self (uno mismo). Esto no es nada más que una convención: el nombre self no significa nada en especial para Python. Observá que, sin embargo, si no seguís la convención tu código puede resultar menos legible a otros programadores de Python, y puede llegar a pasar que un programa navegador de clases pueda escribirse de una manera que dependa de dicha convención.
+hola
+Cualquier objeto función que es un atributo de clase define un método para instancias de esa clase. No es necesario que el la definición de la función esté textualmente dentro de la definición de la clase: asignando un objeto función a una variable local en la clase también está bien. Por ejemplo:
+hola
+HOLA
