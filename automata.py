@@ -9,8 +9,12 @@ for line in f:
         arregloLinea.append(caracter)
         caractertemp=caracter
         cadenaTemporal.append(caractertemp)
-        cont+=1
-    if cadenaTemporal == "h" and cadenaTemporal == "o" and cadenaTemporal == "l" and cadenaTemporal =="a":
-            ver+=1
+        
+        if arregloLinea[cont] == "h":
+            if arregloLinea[cont] == "o":
+                if arregloLinea[cont] == "l":
+                    if arregloLinea[cont] == "a":
+                        ver+=1
+    cont+=1           
 print(cadenaTemporal)
-print (ver/4)
+print (ver)
